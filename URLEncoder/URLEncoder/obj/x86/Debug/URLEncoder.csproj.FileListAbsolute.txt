@@ -1,0 +1,6 @@
+/Users/jwmx9/Desktop/URLEncoder/URLEncoder/bin/Debug/URLEncoder.exe
+/Users/jwmx9/Desktop/URLEncoder/URLEncoder/bin/Debug/URLEncoder.pdb
+/Users/jwmx9/Desktop/URLEncoder/URLEncoder/obj/x86/Debug/URLEncoder.csprojAssemblyReference.cache
+/Users/jwmx9/Desktop/URLEncoder/URLEncoder/obj/x86/Debug/URLEncoder.csproj.CoreCompileInputs.cache
+/Users/jwmx9/Desktop/URLEncoder/URLEncoder/obj/x86/Debug/URLEncoder.exe
+/Users/jwmx9/Desktop/URLEncoder/URLEncoder/obj/x86/Debug/URLEncoder.pdb
